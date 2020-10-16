@@ -1,2 +1,3 @@
 # photo_api
-Created with CodeSandbox
+Created using react
+
